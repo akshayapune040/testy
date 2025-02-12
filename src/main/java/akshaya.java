@@ -3,7 +3,8 @@ public class akshaya {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
-		String x="po";
+		String x="post";
+		System.out.println();
 		
 
 	}
